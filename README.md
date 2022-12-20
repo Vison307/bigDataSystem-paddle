@@ -1,6 +1,6 @@
 # bigDataSystem-paddle
 
-Final Homework for 2022 Autumn Course of Big Data System (B)
+Final Homework for 2022 Autumn Course of Big Data System (B) using Baidu's `paddle.distribute`
 
 Single Machine/Multi Machine Multi Node: run `run_this_distributed.py`
 
